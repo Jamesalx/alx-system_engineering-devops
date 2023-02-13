@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -w 'ABC|abc' /etc/ssh/sshd_config
+egrep 'ABC|abc' /etc/ssh/sshd_config
