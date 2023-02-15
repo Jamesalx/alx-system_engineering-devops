@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%f\n" export MYNUM="2.57"
+printf "%.2f\n" $MYNUM
